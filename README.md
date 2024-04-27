@@ -1,6 +1,8 @@
 
 # <p align="center"><img width="40%" src="./assets/logo.png"></p>
+
 <br>
+
 BillBox is a Laravel-based web application designed for society accountants/auditors, tailored specifically for the needs of [Om Associates](./assets/agency.jpg?raw=true). It provides a streamlined solution for managing societies and their users, offering distinct functionalities for both administrators and regular users.
 
 
